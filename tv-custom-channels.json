@@ -12,18 +12,18 @@
         "streamUrl": "https://ava001.xyz/upload/images/720.m3u8"
       }
     },
-    {
-      "countryCode": "KURDISH",
-      "channel": {
-        "id": "rotana_classic_web",
-        "name": "Rotana Classic",
-        "country": "KURDISH",
-        "categories": ["Music"],
-        "languages": ["Arabic"],
-        "logo": null,
-        "streamUrl": "",
-        "webviewUrl": "https://rotana.net/en/channels/channels#/live/rotana-classical"
-      }
-    }
+   {
+  "countryCode": "SA",
+  "channel": {
+    "id": "rotana_classic_web",
+    "name": "Rotana Classic",
+    "country": "SA",
+    "categories": ["Music"],
+    "languages": ["Arabic"],
+    "logo": null,
+    "streamUrl": "",
+    "webviewUrl": "https://rotana.net/en/channels/channels#/live/rotana-classical"
+  }
+}
   ]
 }
