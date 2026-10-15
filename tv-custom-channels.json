@@ -12,109 +12,96 @@
         "streamUrl": "https://ava001.xyz/upload/images/720.m3u8"
       }
     },
-   {
-  "countryCode": "SA",
-  "channel": {
-    "id": "rotana_classic_web",
-    "name": "Rotana Classic",
-    "country": "SA",
-    "categories": ["Music"],
-    "languages": ["Arabic"],
-    "logo": null,
-    "streamUrl": "",
-    "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-classical"
-  }
-}
     {
-  "countryCode": "SA",
-  "channel": {
-    "id": "rotana_cinema_web",
-    "name": "Rotana Cinema",
-    "country": "SA",
-    "categories": ["Movies"],
-    "languages": ["Arabic"],
-    "logo": null,
-    "streamUrl": "",
-    "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-cinema"
-  }
-}
+      "countryCode": "SA",
+      "channel": {
+        "id": "rotana_classic_web",
+        "name": "Rotana Classic",
+        "country": "SA",
+        "categories": ["Music"],
+        "languages": ["Arabic"],
+        "logo": null,
+        "streamUrl": "",
+        "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-classical"
+      }
+    },
     {
-  "countryCode": "SA",
-  "channel": {
-    "id": "rotana_clip_web",
-    "name": "Rotana Clip",
-    "country": "SA",
-    "categories": ["Music"],
-    "languages": ["Arabic"],
-    "logo": null,
-    "streamUrl": "",
-    "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-clip"
-  }
-}
+      "countryCode": "SA",
+      "channel": {
+        "id": "rotana_cinema_web",
+        "name": "Rotana Cinema",
+        "country": "SA",
+        "categories": ["Movies"],
+        "languages": ["Arabic"],
+        "logo": null,
+        "streamUrl": "",
+        "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-cinema"
+      }
+    },
     {
-  "countryCode": "SA",
-  "channel": {
-    "id": "rotana_comedy_web",
-    "name": "Rotana Comedy",
-    "country": "SA",
-    "categories": ["comedy"],
-    "languages": ["Arabic"],
-    "logo": null,
-    "streamUrl": "",
-    "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-comedy"
-  }
-}
+      "countryCode": "SA",
+      "channel": {
+        "id": "rotana_clip_web",
+        "name": "Rotana Clip",
+        "country": "SA",
+        "categories": ["Music"],
+        "languages": ["Arabic"],
+        "logo": null,
+        "streamUrl": "",
+        "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-clip"
+      }
+    },
     {
-  "countryCode": "SA",
-  "channel": {
-    "id": "rotana_drama_web",
-    "name": "Rotana Drama",
-    "country": "SA",
-    "categories": ["series"],
-    "languages": ["Arabic"],
-    "logo": null,
-    "streamUrl": "",
-    "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-drama"
-  }
-}
+      "countryCode": "SA",
+      "channel": {
+        "id": "rotana_comedy_web",
+        "name": "Rotana Comedy",
+        "country": "SA",
+        "categories": ["Comedy"],
+        "languages": ["Arabic"],
+        "logo": null,
+        "streamUrl": "",
+        "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-comedy"
+      }
+    },
     {
-  "countryCode": "SA",
-  "channel": {
-    "id": "rotana_khalijia_web",
-    "name": "Rotana Khalijia",
-    "country": "SA",
-    "categories": ["culture"],
-    "languages": ["Arabic"],
-    "logo": null,
-    "streamUrl": "",
-    "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-khaleejiya"
-  }
-}
-     {
-  "countryCode": "SA",
-  "channel": {
-    "id": "rotana_music_web",
-    "name": "Rotana Music",
-    "country": "SA",
-    "categories": ["music"],
-    "languages": ["Arabic"],
-    "logo": null,
-    "streamUrl": "",
-    "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-music"
-  }
-}
+      "countryCode": "SA",
+      "channel": {
+        "id": "rotana_drama_web",
+        "name": "Rotana Drama",
+        "country": "SA",
+        "categories": ["Series"],
+        "languages": ["Arabic"],
+        "logo": null,
+        "streamUrl": "",
+        "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-drama"
+      }
+    },
     {
-  "countryCode": "SA",
-  "channel": {
-    "id": "rotana_music_web",
-    "name": "Rotana Music",
-    "country": "SA",
-    "categories": ["music"],
-    "languages": ["Arabic"],
-    "logo": null,
-    "streamUrl": "",
-    "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-music"
-  }
-}
+      "countryCode": "SA",
+      "channel": {
+        "id": "rotana_khalijia_web",
+        "name": "Rotana Khalijia",
+        "country": "SA",
+        "categories": ["Culture"],
+        "languages": ["Arabic"],
+        "logo": null,
+        "streamUrl": "",
+        "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-khaleejiya"
+      }
+    },
+    {
+      "countryCode": "SA",
+      "channel": {
+        "id": "rotana_music_web",
+        "name": "Rotana Music",
+        "country": "SA",
+        "categories": ["Music"],
+        "languages": ["Arabic"],
+        "logo": null,
+        "streamUrl": "",
+        "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-music"
+      }
+    }
   ]
 }
