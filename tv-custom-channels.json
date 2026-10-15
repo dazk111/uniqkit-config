@@ -22,7 +22,7 @@
     "languages": ["Arabic"],
     "logo": null,
     "streamUrl": "",
-    "webviewUrl": "https://rotana.net/en/channels/channels#/live/rotana-classical"
+    "webviewUrl": "https://rotana.net/en/channels?tz=-60/channels#/live/rotana-classical"
   }
 }
   ]
