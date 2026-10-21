@@ -1,0 +1,17 @@
+{
+  "add": [
+    {
+      "name": "Example FM",
+      "countrycode": "NO",
+      "country": "Norway",
+      "url": "https://example.com/stream",
+      "favicon": "https://example.com/logo.png",
+      "tags": "pop",
+      "codec": "MP3",
+      "bitrate": 128
+    }
+  ],
+  "remove": [
+    { "name": "Bad Station", "countrycode": "NO" }
+  ]
+}
