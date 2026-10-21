@@ -8,7 +8,8 @@
       "favicon": "https://example.com/logo.png",
       "tags": "pop",
       "codec": "MP3",
-      "bitrate": 128
+      "bitrate": 128,
+      "votes": 99999
     }
   ],
   "remove": [
