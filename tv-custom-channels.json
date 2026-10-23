@@ -104,13 +104,13 @@
       }
     },
     {
-      "countryCode": "UK",
+      "countryCode": "KURDISH",
       "channel": {
         "id": "bbc_one_hd",
         "name": "BBC One London HD (720p)",
-        "country": "UK",
+        "country": "KURDISH",
         "categories": ["News"],
-        "languages": ["English"],
+        "languages": ["kurdish"],
         "logo": "",
         "streamUrl": "https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd"
       }
