@@ -104,11 +104,11 @@
       }
     },
     {
-      "countryCode": "uk",
+      "countryCode": "UK",
       "channel": {
         "id": "bbc_one_hd",
         "name": "BBC One London HD (720p)",
-        "country": "uk",
+        "country": "UK",
         "categories": ["News"],
         "languages": ["English"],
         "logo": "",
