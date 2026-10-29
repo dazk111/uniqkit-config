@@ -3,7 +3,7 @@
        {
       "countryCode": "KURDISH",
       "channel": {
-        "id": "ava_news_web",
+        "id": "ava_news_custom",
         "name": "AVA News",
         "country": "KURDISH",
         "categories": ["News"],
