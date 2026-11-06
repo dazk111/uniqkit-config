@@ -14,6 +14,19 @@
       }
     },
     {
+  "countryCode": "ma",
+  "channel": {
+    "id": "snrt_al_aoula_custom",
+    "name": "Al Aoula",
+    "country": "MA",
+    "categories": ["General"],
+    "languages": ["Arabic", "French"],
+    "logo": "",
+    "streamUrl": "",
+    "webviewUrl": "https://snrtlive.ma/fr/al-aoula"
+  }
+},
+    {
       "countryCode": "SA",
       "channel": {
         "id": "rotana_classic_web",
